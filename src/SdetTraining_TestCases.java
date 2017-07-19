@@ -15,6 +15,7 @@ public class SdetTraining_TestCases {
 	
 	@Test
 	public void tc_login() throws InterruptedException{
+		//This is good
 		baseUrl = "http://sdettraining.com/";
 		//System.setProperty("webdriver.ie.driver", "C:\\0717\\alljars\\IEDriverServer.exe");
 		System.setProperty("webdriver.gecko.driver", "C:\\0717\\alljars\\geckodriver.exe");
